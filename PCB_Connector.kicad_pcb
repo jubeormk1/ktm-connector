@@ -249,9 +249,6 @@
   (gr_text "-" (at 141.72 89.56) (layer "F.SilkS") (tstamp e44add9b-b311-4f31-9ea4-c488d6c32b4a)
     (effects (font (size 4 4) (thickness 1) bold) (justify left bottom))
   )
-  (gr_text "Align the pins!" (at 145.16 72.32) (layer "Edge.Cuts") (tstamp 8413a1bf-59da-4d9d-b092-c2915a79ed55)
-    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
-  )
 
   (segment (start 163.1675 94.2575) (end 164.41 95.5) (width 2) (layer "F.Cu") (net 1) (tstamp 89eaa23a-b6f3-4fd5-8cdf-27767b6d2a2e))
   (segment (start 163.4125 96.4975) (end 164.41 95.5) (width 2) (layer "F.Cu") (net 1) (tstamp d84a628e-3c9c-45e4-b1fb-088189de4dec))
