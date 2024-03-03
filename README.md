@@ -1,5 +1,5 @@
 # What is this?
-![PCB](https://github.com/jubeormk1/ktm-connector/blob/5dfcd1b7cf2481bd81aa9e07696a8cb33e575b33/Images/PCB_v0.1.png)
+![PCB](https://github.com/jubeormk1/ktm-connector/blob/9f4e6564e53cd31f6e17c3dc811f09fedfe6a111/Images/PCB_v0.1.png)
 
 This is a very simple design of a electric battery connector that covers the need of charging an Amparo 12Ah KTM e-bike. Given that I could not find a commercially available connector I capture the mechanical dimensions and electrical requirements to match my battery charger rating.
 
