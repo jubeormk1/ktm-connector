@@ -9,8 +9,6 @@ The design is compose of the next parts:
 - PCB that capture the position of the pins and facilitate electrical connections.
 - Two part case that provides rigidity, pin short circuit protection and alignment aids.  
 
-Thanks to the [Hawthorn Community Connected Hacker Space](https://www.hackmelbourne.org/) for ideas, assistance cutting the pins and in general being a bunch of very helpful and skilled people. Thanks for the bicycle and the rework of the battery to another bunch of helpful people: [The Recycling Bicycle Shed](https://thebikeshed.org.au/) in the [Ceres Environmental Park](https://ceres.org.au/).
-
 ## Case and Pins
 
 The case and pins have been designed using Fusion 360 and because of that it can be shared but not edited. Exported models will be available under the ''Models'' folder
@@ -18,5 +16,10 @@ The case and pins have been designed using Fusion 360 and because of that it can
 - [Battery Pin](https://a360.co/49YjsVp)
 
 ## PCB
-
 The PCB has been designed with [KiCAD 7.0](https://www.kicad.org/) which made everything very easy.
+
+## Thanks
+
+Thanks to the [Hawthorn Community Connected Hacker Space (CCHS)](https://www.hackmelbourne.org/) for ideas, assistance cutting the pins and in general being a bunch of very helpful and skilled people. Thanks for the bicycle and the rework of the battery to another bunch of helpful people: [The Recycling Bicycle Shed](https://thebikeshed.org.au/) in the [Ceres Environmental Park](https://ceres.org.au/).
+
+Also thanks [PCBWay](https://www.pcbway.com/) for sponsoring the [CCHS](https://www.hackmelbourne.org/), providing members with free PCBs. Yuhuu!.
